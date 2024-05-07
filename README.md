@@ -1,3 +1,2 @@
 # MasterOp
-My First Repo
-Author-Bipin V Thomas
+My First Repo<br>Author-Bipin V Thomas
